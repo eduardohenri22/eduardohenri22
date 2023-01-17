@@ -1,4 +1,4 @@
-# Olá, me chamo Makson! 
+# Olá, me chamo Eduardo! 
 ## Bem vindo ao meu perfil GitHub 👋
 ![Profile views](https://gpvc.arturio.dev/eduardohenri22)
 

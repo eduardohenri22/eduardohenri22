@@ -1,6 +1,6 @@
 # Olá, me chamo Makson! 
 ## Bem vindo ao meu perfil GitHub 👋
-![Profile views](https://gpvc.arturio.dev/maksonss4)
+![Profile views](https://gpvc.arturio.dev/eduardohenri22)
 
 #### Principais tecnologias e ferramentas:
 <div align="center" margin="auto">
@@ -14,7 +14,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="React-Router-DOM" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <!-- <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /> 
 </div>
